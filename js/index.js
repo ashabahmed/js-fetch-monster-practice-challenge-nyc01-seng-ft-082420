@@ -82,7 +82,6 @@ const createForm = () => {
   
 }  
 
-  
 const clickHandler = () => {
 	document.addEventListener('submit', e => {
 		e.preventDefault()
